@@ -1,0 +1,19 @@
+# Ignore Python environment files
+__pycache__/
+*.pyc
+
+# Ignore environment variables / secrets
+.env
+secrets.json
+PowerBI/
+
+# Ignore logs
+*.log
+
+# Ignore IDE/editor config
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
